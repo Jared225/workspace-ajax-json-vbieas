@@ -22,6 +22,7 @@ function loadRates() {
     });
 }
 
+
 loadRates(); // Call loadRates()
 
 /*
